@@ -18,7 +18,7 @@
         },
         {
             "desc": "instructions",
-            "match": "\\s+(mov[qldb]?|cmp[qldb]?|je|inc|jmp|jle|push[qb]?|pop|call|leave|ret|xor|imul[qldb]?|div[qldb]?|sub[qldb]?|add[qldb]?)",
+            "match": "\\s+(mov[qldb]?|cmp[qldb]?|je|inc|jmp|jle|push[qb]?|pop|call|leave|ret|xor|imul[qldb]?|div[qldb]?|sub[qldb]?|add[qldb]?)\\s",
             "name": "keyword.control"
         },
         {
